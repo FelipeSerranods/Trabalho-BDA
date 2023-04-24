@@ -333,7 +333,3 @@ SELECT * FROM CURSOS
 SELECT * FROM PROFESSOR
 SELECT * FROM MATERIAS
 SELECT * FROM MATRICULA
-
--- Aprovado em BDA com 8 de média e 96,8% de frequência
--- Exame em DEW com 4,25 de média e 94,7% de frequência  
--- Reprovado em MTD com 8,625 de média e 67,7% de frequência
