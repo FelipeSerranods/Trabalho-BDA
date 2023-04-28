@@ -327,7 +327,7 @@ EXEC procCadastroNotas 1, 'ENG', 'MTD', 2023, 8.0, 12, 2
 EXEC procCadastroNotas 1, 'ENG', 'MTD', 2023, 9.0, 14, 3 
 EXEC procCadastroNotas 1, 'ENG', 'MTD', 2023, 10.0, 16, 4 
 
----------------SELECTS--------------------------------------
+-----Selects-----
 SELECT * FROM ALUNOS
 SELECT * FROM CURSOS
 SELECT * FROM PROFESSOR
